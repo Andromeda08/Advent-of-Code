@@ -1,6 +1,6 @@
            *
          _/ \_        Advent of Code 2020
-        \     /          My solutions written in C
+        \     /          Solutions to a few problems written in C
         /_' '_\
          /'@ \
         / . o \
